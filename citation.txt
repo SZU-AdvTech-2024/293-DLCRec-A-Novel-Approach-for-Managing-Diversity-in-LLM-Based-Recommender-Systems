@@ -1,0 +1,6 @@
+@article{REPO293,
+    author = "Chen, Jiaju and Gao, Chongming and Yuan, Shuai and Liu, Shuchang and Cai, Qingpeng and Jiang, Peng",
+    journal = "arXiv preprint arXiv:2408.12470",
+    title = "{DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems}",
+    year = "2024"
+}
