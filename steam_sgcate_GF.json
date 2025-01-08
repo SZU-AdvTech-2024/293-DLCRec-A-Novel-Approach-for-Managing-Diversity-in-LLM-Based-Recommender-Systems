@@ -1,0 +1,35 @@
+{
+    "./steam_sgcate_result/gf/BERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5GF1000gred.json": {
+        "MAE": 0.007,
+        "RECALL": 0.5700000000000016,
+        "NDCG": 0.5615666105858208,
+        "RECALL_LIST": 0.722900000000002,
+        "MAE_GP": 0.0,
+        "RECALL_GP": 1.0,
+        "NDCG_GP": 1.0
+    },
+    "./steam_sgcate_result/gf/BERT_GF_vlGF_ep25_1e-3_GF1000gred.json": {
+        "MAE": 0.004,
+        "RECALL": 0.9992142857142858,
+        "NDCG": 0.9994680331128093,
+        "RECALL_LIST": 0.9083999999999928
+    },
+    "./steam_sgcate_result/gf/BERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_2GP1000gred_2GF1000gred.json": {
+        "MAE": 0.0,
+        "RECALL": 0.8345,
+        "NDCG": 0.8126625917962653,
+        "RECALL_LIST": 0.6922999999999987,
+        "MAE_GP": 0.0,
+        "RECALL_GP": 1.0,
+        "NDCG_GP": 1.0
+    },
+    "./steam_sgcate_result/gf/BERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_8GP1000gred_8GF1000gred.json": {
+        "MAE": 0.085,
+        "RECALL": 0.411375,
+        "NDCG": 0.39172491339275073,
+        "RECALL_LIST": 0.5227000000000006,
+        "MAE_GP": 0.085,
+        "RECALL_GP": 0.957375,
+        "NDCG_GP": 0.9611948657437268
+    }
+}

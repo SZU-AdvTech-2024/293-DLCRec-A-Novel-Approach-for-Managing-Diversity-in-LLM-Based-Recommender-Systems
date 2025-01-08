@@ -1,0 +1,496 @@
+{
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_7GP1000gred_7_7GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.018023782171161972
+        ],
+        "HR": [
+            0.015499999999999972
+        ],
+        "REP_RATE": [
+            0.1730999999999993
+        ],
+        "DIV": [
+            0.7509117857142847
+        ],
+        "COV": [
+            5.109
+        ],
+        "COV_MAE": [
+            1.893
+        ],
+        "MATCH_T": [
+            0.28550000000000064
+        ],
+        "MATCH_P": [
+            0.5967999999999999
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_2GP1000gred_2_2GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.023923153273400163
+        ],
+        "HR": [
+            0.021300000000000006
+        ],
+        "REP_RATE": [
+            0.5681000000000005
+        ],
+        "DIV": [
+            0.2894499999999987
+        ],
+        "COV": [
+            1.658
+        ],
+        "COV_MAE": [
+            0.572
+        ],
+        "MATCH_T": [
+            0.44220000000000065
+        ],
+        "MATCH_P": [
+            0.5963999999999983
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_10GP1000gred_10_10GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.016414107237477583
+        ],
+        "HR": [
+            0.01319999999999998
+        ],
+        "REP_RATE": [
+            0.1527999999999991
+        ],
+        "DIV": [
+            0.7954159126984147
+        ],
+        "COV": [
+            6.178
+        ],
+        "COV_MAE": [
+            3.822
+        ],
+        "MATCH_T": [
+            0.18409999999999901
+        ],
+        "MATCH_P": [
+            0.5726000000000023
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_n_vlGF_n_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5_5GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.020418953001861823
+        ],
+        "HR": [
+            0.018600000000000002
+        ],
+        "REP_RATE": [
+            0.35759999999999986
+        ],
+        "DIV": [
+            0.5701833333333355
+        ],
+        "COV": [
+            3.649
+        ],
+        "COV_MAE": [
+            1.389
+        ],
+        "MATCH_T": [
+            0.3126000000000001
+        ],
+        "MATCH_P": [
+            0.5251000000000005
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_d_vlIP_d_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5_5GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.02457465015574674
+        ],
+        "HR": [
+            0.022400000000000034
+        ],
+        "REP_RATE": [
+            0.1957999999999986
+        ],
+        "DIV": [
+            0.6189449999999992
+        ],
+        "COV": [
+            4.039
+        ],
+        "COV_MAE": [
+            1.011
+        ],
+        "MATCH_T": [
+            0.3670999999999999
+        ],
+        "MATCH_P": [
+            0.8101999999999936
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_8GP1000gred_8_8GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.017774596433088215
+        ],
+        "HR": [
+            0.01519999999999997
+        ],
+        "REP_RATE": [
+            0.15129999999999935
+        ],
+        "DIV": [
+            0.7814255555555573
+        ],
+        "COV": [
+            5.705
+        ],
+        "COV_MAE": [
+            2.297
+        ],
+        "MATCH_T": [
+            0.24399999999999972
+        ],
+        "MATCH_P": [
+            0.5718000000000009
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_1GP1000gred_1_1GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.024082507145864896
+        ],
+        "HR": [
+            0.021300000000000003
+        ],
+        "REP_RATE": [
+            0.5749000000000007
+        ],
+        "DIV": [
+            0.2784333333333317
+        ],
+        "COV": [
+            1.608
+        ],
+        "COV_MAE": [
+            0.608
+        ],
+        "MATCH_T": [
+            0.4451000000000009
+        ],
+        "MATCH_P": [
+            0.6064999999999975
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_6GP1000gred_6_6GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.019178942608904286
+        ],
+        "HR": [
+            0.016499999999999983
+        ],
+        "REP_RATE": [
+            0.22729999999999914
+        ],
+        "DIV": [
+            0.704744761904762
+        ],
+        "COV": [
+            4.664
+        ],
+        "COV_MAE": [
+            1.348
+        ],
+        "MATCH_T": [
+            0.3057999999999999
+        ],
+        "MATCH_P": [
+            0.6001999999999992
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_vlIP_ep25_1e-3_controlBERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_2GP1000gred_2_2GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.02766354043299
+        ],
+        "HR": [
+            0.023600000000000013
+        ],
+        "REP_RATE": [
+            0.4752999999999992
+        ],
+        "DIV": [
+            0.20815999999999749
+        ],
+        "COV": [
+            1.522
+        ],
+        "COV_MAE": [
+            0.664
+        ],
+        "MATCH_T": [
+            0.5824999999999998
+        ],
+        "MATCH_P": [
+            0.8580999999999908
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_4GP1000gred_4_4GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.020734221178814433
+        ],
+        "HR": [
+            0.017799999999999986
+        ],
+        "REP_RATE": [
+            0.4252000000000007
+        ],
+        "DIV": [
+            0.48749000000000203
+        ],
+        "COV": [
+            2.873
+        ],
+        "COV_MAE": [
+            1.225
+        ],
+        "MATCH_T": [
+            0.3660000000000001
+        ],
+        "MATCH_P": [
+            0.5347000000000016
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_9GP1000gred_9_9GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.01629933187837851
+        ],
+        "HR": [
+            0.013599999999999978
+        ],
+        "REP_RATE": [
+            0.14919999999999933
+        ],
+        "DIV": [
+            0.7907917063492081
+        ],
+        "COV": [
+            6.079
+        ],
+        "COV_MAE": [
+            2.923
+        ],
+        "MATCH_T": [
+            0.20539999999999886
+        ],
+        "MATCH_P": [
+            0.5605000000000012
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_vlIP_ep25_1e-3_controlBERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5_5GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.031714824137854265
+        ],
+        "HR": [
+            0.028800000000000058
+        ],
+        "REP_RATE": [
+            0.1711999999999987
+        ],
+        "DIV": [
+            0.6947690476190463
+        ],
+        "COV": [
+            4.529
+        ],
+        "COV_MAE": [
+            0.513
+        ],
+        "MATCH_T": [
+            0.39229999999999976
+        ],
+        "MATCH_P": [
+            0.8914999999999952
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_vlIP_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5_5GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.030066451941039987
+        ],
+        "HR": [
+            0.02690000000000007
+        ],
+        "REP_RATE": [
+            0.1983999999999983
+        ],
+        "DIV": [
+            0.6301666666666664
+        ],
+        "COV": [
+            4.399
+        ],
+        "COV_MAE": [
+            0.653
+        ],
+        "MATCH_T": [
+            0.40560000000000057
+        ],
+        "MATCH_P": [
+            0.8806999999999969
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_vlIP_ep25_1e-3_controlBERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_8GP1000gred_8_8GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.024789145037468388
+        ],
+        "HR": [
+            0.02170000000000002
+        ],
+        "REP_RATE": [
+            0.031100000000000076
+        ],
+        "DIV": [
+            0.8739289285714246
+        ],
+        "COV": [
+            6.548
+        ],
+        "COV_MAE": [
+            1.452
+        ],
+        "MATCH_T": [
+            0.2538000000000001
+        ],
+        "MATCH_P": [
+            0.8332999999999912
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_n_vlIP_n_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5_5GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.025371360595831647
+        ],
+        "HR": [
+            0.024600000000000045
+        ],
+        "REP_RATE": [
+            0.18239999999999848
+        ],
+        "DIV": [
+            0.621764999999999
+        ],
+        "COV": [
+            4.204
+        ],
+        "COV_MAE": [
+            0.798
+        ],
+        "MATCH_T": [
+            0.3992000000000004
+        ],
+        "MATCH_P": [
+            0.8902999999999915
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_3GP1000gred_3_3GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.02499818489787603
+        ],
+        "HR": [
+            0.022499999999999996
+        ],
+        "REP_RATE": [
+            0.5168000000000004
+        ],
+        "DIV": [
+            0.36780833333333385
+        ],
+        "COV": [
+            2.055
+        ],
+        "COV_MAE": [
+            0.999
+        ],
+        "MATCH_T": [
+            0.40720000000000117
+        ],
+        "MATCH_P": [
+            0.5382000000000003
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_d_vlGF_d_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5_5GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.022189742991335887
+        ],
+        "HR": [
+            0.019700000000000002
+        ],
+        "REP_RATE": [
+            0.2507999999999993
+        ],
+        "DIV": [
+            0.8051530952380924
+        ],
+        "COV": [
+            4.237
+        ],
+        "COV_MAE": [
+            0.875
+        ],
+        "MATCH_T": [
+            0.3308999999999998
+        ],
+        "MATCH_P": [
+            0.6101999999999975
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5_5GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.021133839410061948
+        ],
+        "HR": [
+            0.019399999999999997
+        ],
+        "REP_RATE": [
+            0.35240000000000005
+        ],
+        "DIV": [
+            0.6387557142857144
+        ],
+        "COV": [
+            3.838
+        ],
+        "COV_MAE": [
+            1.232
+        ],
+        "MATCH_T": [
+            0.2980999999999999
+        ],
+        "MATCH_P": [
+            0.5431999999999994
+        ]
+    },
+    "./steam_sgcate_result/BERT_IP_nd_vlIP_nd_ep25_1e-3_controlBERT_GF_nd_vlGF_nd_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5_5GF1000gred_IP1000gred.json": {
+        "NDCG": [
+            0.01948737060769988
+        ],
+        "HR": [
+            0.01719999999999999
+        ],
+        "REP_RATE": [
+            0.3214999999999997
+        ],
+        "DIV": [
+            0.6108121428571427
+        ],
+        "COV": [
+            3.797
+        ],
+        "COV_MAE": [
+            1.263
+        ],
+        "MATCH_T": [
+            0.32610000000000006
+        ],
+        "MATCH_P": [
+            0.5567000000000003
+        ]
+    }
+}

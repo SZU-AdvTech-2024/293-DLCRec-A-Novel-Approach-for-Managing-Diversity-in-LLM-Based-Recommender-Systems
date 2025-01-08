@@ -1,0 +1,122 @@
+{
+    "./steam_sgcate_result/BERT_BIGRec_CoT_vlCoT_ep25_1e-3_1000gred8.json": {
+        "NDCG": [
+            0.024840217155093974
+        ],
+        "HR": [
+            0.02220000000000001
+        ],
+        "REP_RATE": [
+            0.40500000000000064
+        ],
+        "DIV": [
+            0.6308216666666682
+        ],
+        "COV": [
+            2.583
+        ],
+        "MAE_COV": [
+            5.417
+        ]
+    },
+    "./steam_sgcate_result/BERT_BIGRec_noCoT_vlnoCoT_ep25_1e-3_1000gred5.json": {
+        "NDCG": [
+            0.023363694255174806
+        ],
+        "HR": [
+            0.021000000000000005
+        ],
+        "REP_RATE": [
+            0.39250000000000007
+        ],
+        "DIV": [
+            0.6605866666666695
+        ],
+        "COV": [
+            2.819
+        ],
+        "MAE_COV": [
+            2.185
+        ]
+    },
+    "./steam_sgcate_result/BERT_BIGRec_noCoT_vlnoCoT_ep25_1e-3_1000gred2.json": {
+        "NDCG": [
+            0.019922422991481913
+        ],
+        "HR": [
+            0.019599999999999992
+        ],
+        "REP_RATE": [
+            0.38059999999999994
+        ],
+        "DIV": [
+            0.6212433333333327
+        ],
+        "COV": [
+            2.837
+        ],
+        "MAE_COV": [
+            0.919
+        ]
+    },
+    "./steam_sgcate_result/BERT_BIGRec_CoT_vlCoT_ep25_1e-3_1000gred2.json": {
+        "NDCG": [
+            0.02392352237278001
+        ],
+        "HR": [
+            0.021200000000000014
+        ],
+        "REP_RATE": [
+            0.4041000000000002
+        ],
+        "DIV": [
+            0.6302566666666684
+        ],
+        "COV": [
+            2.58
+        ],
+        "MAE_COV": [
+            0.698
+        ]
+    },
+    "./steam_sgcate_result/BERT_BIGRec_CoT_vlCoT_ep25_1e-3_1000gred5.json": {
+        "NDCG": [
+            0.024909507349809408
+        ],
+        "HR": [
+            0.022300000000000018
+        ],
+        "REP_RATE": [
+            0.4147000000000004
+        ],
+        "DIV": [
+            0.6315933333333352
+        ],
+        "COV": [
+            2.57
+        ],
+        "MAE_COV": [
+            2.43
+        ]
+    },
+    "./steam_sgcate_result/BERT_BIGRec_noCoT_vlnoCoT_ep25_1e-3_1000gred8.json": {
+        "NDCG": [
+            0.02322598329285811
+        ],
+        "HR": [
+            0.0208
+        ],
+        "REP_RATE": [
+            0.3966
+        ],
+        "DIV": [
+            0.6663550000000023
+        ],
+        "COV": [
+            2.828
+        ],
+        "MAE_COV": [
+            5.172
+        ]
+    }
+}

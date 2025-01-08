@@ -1,0 +1,35 @@
+{
+    "./movie_sgcate_result/gf/BERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_5GP1000gred_5GF1000gred.json": {
+        "MAE": 0.28,
+        "RECALL": 0.7062,
+        "NDCG": 0.00038356636737133567,
+        "RECALL_LIST": 0.6170000000000003,
+        "MAE_GP": 0.28,
+        "RECALL_GP": 0.941999999999999,
+        "NDCG_GP": 0.9600735165101144
+    },
+    "./movie_sgcate_result/gf/BERT_GF_vlGF_ep25_1e-3_GF1000gred.json": {
+        "MAE": 0.265,
+        "RECALL": 0.9438654761904761,
+        "NDCG": 0.0008318724637288825,
+        "RECALL_LIST": 0.8327999999999948
+    },
+    "./movie_sgcate_result/gf/BERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_2GP1000gred_2GF1000gred.json": {
+        "MAE": 0.065,
+        "RECALL": 0.8685,
+        "NDCG": 0.001,
+        "RECALL_LIST": 0.41419999999999996,
+        "MAE_GP": 0.065,
+        "RECALL_GP": 0.9655,
+        "NDCG_GP": 0.9728545675297554
+    },
+    "./movie_sgcate_result/gf/BERT_GF_vlGF_ep25_1e-3_controlBERT_GP_vlGP_ep25_1e-3_8GP1000gred_8GF1000gred.json": {
+        "MAE": 1.366,
+        "RECALL": 0.465375,
+        "NDCG": 0.00028606042850872485,
+        "RECALL_LIST": 0.5597000000000016,
+        "MAE_GP": 1.365,
+        "RECALL_GP": 0.821375,
+        "NDCG_GP": 0.8715611430022108
+    }
+}
